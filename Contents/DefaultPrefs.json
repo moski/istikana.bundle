@@ -1,0 +1,9 @@
+[
+  {
+    "id":"language",
+    "type":"enum",
+    "label":"Language",
+    "values":["ar", "en"],
+    "default":"en"
+  }
+]
